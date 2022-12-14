@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **msgbandrello@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maandrello/](https://www.linkedin.com/in/maandrello/)
-
 - ⚡ Fun fact **I like purple**
 
 <h3 align="left">Connect with me:</h3>
