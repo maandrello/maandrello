@@ -4,12 +4,12 @@
 - 🔭 I’m currently working on my profile page
 <!-- - [Reunion](http://www.reuniontogether.com) -->
 
-- 🌱 I’m currently learning **Ruby on Rails, JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **msgbandrello@gmail.com**
 
-- ⚡ Fun fact **I like purple**
-
+<!-- - ⚡ Fun fact **I like purple**
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maandrello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maandrello" height="30" width="40" /></a>
