@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A passionate frontend developer from Brazil based in Germany</h3>
 
-- 🔭 I’m currently working on [Reunion](http://www.reuniontogether.com)
+- 🔭 I’m currently working on my profile page
+<!-- - [Reunion](http://www.reuniontogether.com) -->
 
 - 🌱 I’m currently learning **Ruby on Rails, JavaScript**
 
